@@ -2,7 +2,7 @@
 The `wiki_query.py` program is used for mining the web page contents of Wikipedia. It takes a search term as argument and prints the content of the Wikipedia page for that term.
 
 ## Design
-This program involves only one main function called `get_content` that requires one and <em>only</em> one input argument which represents the Wikipedia term to search for.
+This program defines only one function called `get_content` that requires one and <em>only</em> one input argument which represents the Wikipedia term to search for.
 
 The function uses the argument to produce the corresponding url for the term using **UTF 8** encoding. The web page is opened using the `urllib` library and then parsed with the `BeautifulSoup` library.
 
