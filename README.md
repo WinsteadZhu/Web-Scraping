@@ -3,4 +3,4 @@ Here are the codes for the Assignment 4 of course [Advanced Programming for Lang
 
 Two distinct scenarios are dealt with: 
 1. Access to a website’s API is available, which enables interacting with the website directly
-2. Ihe structure of the website data needs to be understood and parsed mannually
+2. The structure of the website data needs to be understood and parsed mannually
